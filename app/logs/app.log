@@ -1,0 +1,12 @@
+2026-10-05 16:32:47,555 | INFO | finance_advisor_agent | Generated synthetic file: app\storage\users.csv
+2026-10-05 16:32:47,572 | INFO | finance_advisor_agent | Generated synthetic file: app\storage\income.csv
+2026-10-05 16:32:47,594 | INFO | finance_advisor_agent | Generated synthetic file: app\storage\expenses.csv
+2026-10-05 16:32:47,905 | INFO | finance_advisor_agent | Generated synthetic file: app\storage\transactions.csv
+2026-10-05 16:32:48,072 | INFO | finance_advisor_agent | Generated synthetic file: app\storage\budgets.csv
+2026-10-05 16:32:48,088 | INFO | finance_advisor_agent | Generated synthetic file: app\storage\goals.csv
+2026-10-05 16:32:48,088 | INFO | finance_advisor_agent | Generated synthetic file: app\storage\investments.csv
+2026-10-05 19:00:31,179 | INFO | finance_advisor_agent | Generated synthetic file: app\storage\savings.csv
+2026-10-05 16:32:48,283 | INFO | finance_advisor_agent | Created conversation history file: app\storage\conversation_history.json
+2026-10-05 21:20:47,423 | INFO | finance_advisor_agent | Application startup complete
+2026-10-05 21:21:31,361 | INFO | finance_advisor_agent | Application startup complete
+2026-10-05 21:21:43,738 | INFO | finance_advisor_agent | Application startup complete

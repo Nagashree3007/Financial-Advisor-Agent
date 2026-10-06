@@ -1,0 +1,120 @@
+{
+  "month": "2026-01",
+  "totals": {
+    "total_income": 83396.0,
+    "total_expense": 78911.0,
+    "savings": 4485.0,
+    "savings_rate": 5.3779557772555036
+  },
+  "spending": {
+    "total_spending": 78911.0,
+    "by_category": {
+      "Rent": 20635,
+      "Medical": 11544,
+      "Travel": 10027,
+      "Insurance": 8727,
+      "Bills": 8477,
+      "Entertainment": 8425,
+      "Food": 4019,
+      "Shopping": 3807,
+      "Education": 3250
+    }
+  },
+  "budget": {
+    "month": "2026-01",
+    "budget_limit": 82856.0,
+    "spent": 78911.0,
+    "is_exceeded": false,
+    "usage_pct": 95.23872743072317
+  },
+  "investments": {
+    "total": 473870.0,
+    "by_asset": {
+      "Fixed Deposit": 77492,
+      "Mutual Fund": 151959,
+      "Stocks": 244419
+    }
+  },
+  "goals": [
+    {
+      "goal_id": 1,
+      "user_id": 1,
+      "goal_name": "Emergency Fund",
+      "target_amount": 300000,
+      "current_amount": 10300,
+      "target_date": "2026-12-01",
+      "progress_pct": 3.4333333333333336
+    },
+    {
+      "goal_id": 2,
+      "user_id": 1,
+      "goal_name": "Emergency Fund",
+      "target_amount": 300000,
+      "current_amount": 17940,
+      "target_date": "2027-01-01",
+      "progress_pct": 5.9799999999999995
+    },
+    {
+      "goal_id": 3,
+      "user_id": 1,
+      "goal_name": "Emergency Fund",
+      "target_amount": 300000,
+      "current_amount": 6000,
+      "target_date": "2027-02-01",
+      "progress_pct": 2.0
+    },
+    {
+      "goal_id": 4,
+      "user_id": 1,
+      "goal_name": "Emergency Fund",
+      "target_amount": 300000,
+      "current_amount": 93505,
+      "target_date": "2027-03-01",
+      "progress_pct": 31.16833333333333
+    },
+    {
+      "goal_id": 5,
+      "user_id": 1,
+      "goal_name": "Emergency Fund",
+      "target_amount": 300000,
+      "current_amount": 3000,
+      "target_date": "2027-04-01",
+      "progress_pct": 1.0
+    },
+    {
+      "goal_id": 6,
+      "user_id": 1,
+      "goal_name": "Emergency Fund",
+      "target_amount": 300000,
+      "current_amount": 95682,
+      "target_date": "2027-05-01",
+      "progress_pct": 31.894
+    },
+    {
+      "goal_id": 7,
+      "user_id": 1,
+      "goal_name": "Emergency Fund",
+      "target_amount": 300000,
+      "current_amount": 29245,
+      "target_date": "2027-06-01",
+      "progress_pct": 9.748333333333333
+    },
+    {
+      "goal_id": 8,
+      "user_id": 1,
+      "goal_name": "Emergency Fund",
+      "target_amount": 300000,
+      "current_amount": 143982,
+      "target_date": "2027-07-01",
+      "progress_pct": 47.994
+    }
+  ],
+  "recommendations": [
+    "Increase monthly savings to at least 20 percent by reducing discretionary spending.",
+    "Set a category cap for Rent; it is currently your largest spend bucket.",
+    "Your expenses are too close to income; build a larger monthly buffer."
+  ],
+  "risks": [
+    "Savings rate is below 15 percent, which increases financial risk."
+  ]
+}
