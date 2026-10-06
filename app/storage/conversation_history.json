@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "timestamp": "2026-10-06T15:25:31.168622",
+    "user_id": 1,
+    "user_message": "Hi",
+    "assistant_answer": "\"Hello! I'm here to assist you with all your personal finance needs, from creating budgets and saving plans to investing and debt management.\"",
+    "analysis": {}
+  }
+]

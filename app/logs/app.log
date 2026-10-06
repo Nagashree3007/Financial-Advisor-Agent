@@ -10,3 +10,23 @@
 2026-10-05 21:20:47,423 | INFO | finance_advisor_agent | Application startup complete
 2026-10-05 21:21:31,361 | INFO | finance_advisor_agent | Application startup complete
 2026-10-05 21:21:43,738 | INFO | finance_advisor_agent | Application startup complete
+2026-10-06 20:03:15,422 | INFO | finance_advisor_agent | Application startup complete
+2026-10-06 20:38:18,490 | ERROR | finance_advisor_agent | Tool selection via LLM failed: Request timed out.
+2026-10-06 20:38:18,495 | ERROR | finance_advisor_agent | LLM timeout: LLM tool selection failed. Please retry in a moment.
+2026-10-06 20:40:07,291 | ERROR | finance_advisor_agent | Tool selection via LLM failed: Request timed out.
+2026-10-06 20:40:16,805 | INFO | finance_advisor_agent | Application startup complete
+2026-10-06 20:42:19,335 | ERROR | finance_advisor_agent | Tool selection via LLM failed: Request timed out.
+2026-10-06 20:42:19,336 | ERROR | finance_advisor_agent | LLM timeout: LLM tool selection failed. Please retry in a moment.
+2026-10-06 20:43:37,579 | ERROR | finance_advisor_agent | Tool selection via LLM failed: Request timed out.
+2026-10-06 20:43:37,580 | ERROR | finance_advisor_agent | LLM timeout: LLM tool selection failed. Please retry in a moment.
+2026-10-06 20:44:34,871 | INFO | finance_advisor_agent | Application startup complete
+2026-10-06 20:45:01,952 | INFO | finance_advisor_agent | Application startup complete
+2026-10-06 20:46:29,016 | ERROR | finance_advisor_agent | Tool selection via LLM failed: Request timed out.
+2026-10-06 20:46:29,020 | ERROR | finance_advisor_agent | LLM timeout: LLM tool selection failed. Please retry in a moment.
+2026-10-06 20:49:26,717 | ERROR | finance_advisor_agent | Greeting generation via LLM failed: Request timed out.
+2026-10-06 20:49:26,720 | ERROR | finance_advisor_agent | LLM timeout: LLM greeting generation failed. Please retry.
+2026-10-06 20:54:31,192 | INFO | finance_advisor_agent | Application startup complete
+2026-10-06 20:54:31,197 | INFO | finance_advisor_agent | Application startup complete
+2026-10-06 20:54:56,903 | INFO | finance_advisor_agent | Application startup complete
+2026-10-06 20:54:57,055 | INFO | finance_advisor_agent | Application startup complete
+2026-10-06 20:55:05,812 | INFO | finance_advisor_agent | Application startup complete
