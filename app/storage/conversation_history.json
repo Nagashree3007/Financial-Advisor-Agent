@@ -62,5 +62,55 @@
         }
       }
     }
+  },
+  {
+    "timestamp": "2026-10-07T06:56:29.724808",
+    "user_id": 1,
+    "user_message": "what is my budjet",
+    "assistant_answer": "**Concise Answer:** Your budget for July 2026 is Rs 82682, and you have spent Rs 78745 so far.\n\n**Key Financial Insight:** You are currently within your budget limit of Rs 82682, but your top spending category is Rent at Rs 24016, which accounts for approximately 29% of your total spending.\n\n**Risk Warning:** None, as your budget is under control for the selected month. However, it's essential to monitor your expenses and adjust your spending habits if you want to optimize your budget further.\n\n**Next Best Action:**\n\n1. Review your Rent expenses: Consider negotiating a lower rent or exploring alternative accommodation options to reduce this significant expense.\n2. Allocate remaining budget: Use the remaining Rs 3927 (Rs 82682 - Rs 78745) for other essential expenses, savings, or debt repayment.\n3. Track and adjust: Continuously monitor your spending and adjust your budget as needed to ensure you stay on track with your financial goals.\n\nBy taking these steps, you can optimize your budget, reduce unnecessary expenses, and make the most of your available funds.",
+    "analysis": {
+      "budget_checker": {
+        "month": "2026-07",
+        "budget_limit": 82682.0,
+        "spent": 78745.0,
+        "is_exceeded": false,
+        "usage_pct": 95.23838320311555
+      },
+      "expense_analyzer": {
+        "total_spending": 78745.0,
+        "by_category": {
+          "Rent": 24016,
+          "Insurance": 11605,
+          "Shopping": 9954,
+          "Education": 8709,
+          "Medical": 6372,
+          "Entertainment": 6002,
+          "Bills": 5611,
+          "Food": 3735,
+          "Travel": 2741
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-07T07:10:14.479450",
+    "user_id": 1,
+    "user_message": "what is my budget",
+    "assistant_answer": "**Concise Answer:** Your budget for July 2026 is $82682, and you have spent $78745 so far.\n\n**Key Financial Insight:** You are on track to meet your budget for this month, with a savings rate of 23.4% and only 5.7% of the allocated funds spent.\n\n**Risk Warning:** None currently detected.\n\n**Next Best Action:**\nContinue monitoring your expenses and adjust as needed to maintain control over your budget. Consider reviewing your spending categories to identify areas where you can optimize your financial management and potentially increase your savings rate in the future.",
+    "analysis": {
+      "budget_checker": {
+        "month": "2026-07",
+        "budget_limit": 82682.0,
+        "spent": 78745.0,
+        "is_exceeded": false,
+        "usage_pct": 95.23838320311555
+      },
+      "income_analyzer": {
+        "total_income": 102742.0,
+        "total_expense": 78745.0,
+        "savings": 23997.0,
+        "savings_rate": 23.356563041404684
+      }
+    }
   }
 ]
